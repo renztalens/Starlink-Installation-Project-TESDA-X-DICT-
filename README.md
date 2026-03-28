@@ -13,7 +13,7 @@ The initiative aimed to provide reliable internet connectivity to remote schools
 - 🤝 Organization: TESDA x DICT
 - 📅 Date: February 2026
 
-This project involved full-cycle deployment of Starlink internet systems—from site survey to final network configuration and troubleshooting.
+This project involved full-cycle deployment of Starlink internet systems, from site survey to final network configuration and troubleshooting.
 
 ---
 
@@ -54,6 +54,13 @@ This project involved full-cycle deployment of Starlink internet systems—from 
 ---
 
 ## 📸 Project Documentation
+![Tarpaulin](Starlink-Installation-Pics/Tarp-1.jpg)
+![Starlink Dish](Starlink-Installation-Pics/Starlink-Disk-1.jpg)
+![Network Box](Starlink-Installation-Pics/Network-Box-Version-2.jpg)
+![WAP](Starlink-Installation-Pics/Wireless-Access-Point-2.jpg)
+![WAP Outdoor](Starlink-Installation-Pics/Outdoor-Wireless-Access-Point-1.jpg)
+
+[See More Pics](https://github.com/renztalens/Starlink-Installation-Project-TESDA-X-DICT-/tree/main/Starlink%20Installation%20Pics)
 
 ---
 
@@ -81,8 +88,6 @@ This project involved full-cycle deployment of Starlink internet systems—from 
 - Importance of proper site survey in network performance
 - Real-world challenges in rural deployments
 - Hands-on experience with satellite-based internet systems
-
----
 - Working in field conditions and adapting to constraints
 
 ---
