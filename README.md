@@ -54,7 +54,7 @@ This project involved full-cycle deployment of Starlink internet systems, from s
 ---
 
 ## 📸 Project Documentation
-![Tarpaulin]([Starlink-Installation-Pics/Tarp-1.jpg](https://github.com/renztalens/Starlink-Installation-Project-TESDA-X-DICT-/blob/main/Starlink%20Installation%20Pics/Tarp-1.jpg))
+![Tarpaulin](https://github.com/renztalens/Starlink-Installation-Project-TESDA-X-DICT-/blob/main/Starlink%20Installation%20Pics/Tarp-1.jpg)
 ![Starlink Dish](Starlink-Installation-Pics/Starlink-Disk-1.jpg)
 ![Network Box](Starlink-Installation-Pics/Network-Box-Version-2.jpg)
 ![WAP](Starlink-Installation-Pics/Wireless-Access-Point-2.jpg)
