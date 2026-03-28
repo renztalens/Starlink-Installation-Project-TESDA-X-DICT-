@@ -53,17 +53,6 @@ This project involved full-cycle deployment of Starlink internet systems, from s
 
 ---
 
-## 📸 Project Documentation
-![Tarpaulin](https://github.com/renztalens/Starlink-Installation-Project-TESDA-X-DICT-/blob/main/Starlink%20Installation%20Pics/Tarp-1.jpg)
-![Starlink Dish](Starlink-Installation-Pics/Starlink-Disk-1.jpg)
-![Network Box](Starlink-Installation-Pics/Network-Box-Version-2.jpg)
-![WAP](Starlink-Installation-Pics/Wireless-Access-Point-2.jpg)
-![WAP Outdoor](Starlink-Installation-Pics/Outdoor-Wireless-Access-Point-1.jpg)
-
-[See More Pics](https://github.com/renztalens/Starlink-Installation-Project-TESDA-X-DICT-/tree/main/Starlink%20Installation%20Pics)
-
----
-
 ## 💡 Skills Demonstrated
 
 - Network Installation & Configuration
@@ -89,5 +78,16 @@ This project involved full-cycle deployment of Starlink internet systems, from s
 - Real-world challenges in rural deployments
 - Hands-on experience with satellite-based internet systems
 - Working in field conditions and adapting to constraints
+
+---
+
+## 📸 Project Documentation
+![Tarpaulin](https://github.com/renztalens/Starlink-Installation-Project-TESDA-X-DICT-/blob/main/Starlink%20Installation%20Pics/Tarp-1.jpg)
+![Starlink Dish](https://github.com/renztalens/Starlink-Installation-Project-TESDA-X-DICT-/blob/main/Starlink%20Installation%20Pics/Starlink-Disk-1.jpg)
+![Network Box](https://github.com/renztalens/Starlink-Installation-Project-TESDA-X-DICT-/blob/main/Starlink%20Installation%20Pics/Network-Box-Version-2.jpg)
+![WAP](https://github.com/renztalens/Starlink-Installation-Project-TESDA-X-DICT-/blob/main/Starlink%20Installation%20Pics/Wireless-Access-Point-2.jpg)
+![WAP Outdoor](https://github.com/renztalens/Starlink-Installation-Project-TESDA-X-DICT-/blob/main/Starlink%20Installation%20Pics/Outdoor-Wireless-Access-Point-1.jpg)
+
+[See More Pics](https://github.com/renztalens/Starlink-Installation-Project-TESDA-X-DICT-/tree/main/Starlink%20Installation%20Pics)
 
 ---
